@@ -1,5 +1,5 @@
-{
+[
     {"storeId": "ST0001", "storeName": "Banglore East"},
     {"storeId": "ST0002", "storeName": "Banglore West"},
     {"storeId": "ST0003", "storeName": "Banglore South"}
-}
+]
